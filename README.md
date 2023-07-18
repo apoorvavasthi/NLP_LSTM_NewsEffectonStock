@@ -1,2 +1,2 @@
 # NLP_LSTM_StockNewsSentiments
-News Sentiments positve or negative effect on StockPrice 
+News Sentiments effect (positve or negative) on StockPrice 
