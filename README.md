@@ -1,2 +1,2 @@
 # NLP_LSTM_StockNewsSentiments
-Changes in StockPrice Using News Sentiments
+Does News Sentiments has some effoct on StockPrice 
